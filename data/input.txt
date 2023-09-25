@@ -1,0 +1,5 @@
+Java EOFException 是 Java IOException 的子類或特定型別，所以我們應該知道 IOException 才能理解 EOFException。
+
+Java 丟擲 IOException 表示程式在執行期間由於輸入或輸出操作發生了一些中斷。
+
+IOException 是一個已檢查的異常，這意味著我們必須正確處理該異常。我們可以使用 try/catch 塊或再次丟擲異常來處理異常。
